@@ -9,5 +9,5 @@ python hello.py
 ## 2. 실행 결과
 
 ```text
-hello world
+hello wo
 ```
