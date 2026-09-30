@@ -9,3 +9,5 @@ Team\_04
 우리 팀의 과제입니다
 알겠습니다.
 main
+
+Crashed
