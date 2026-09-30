@@ -9,5 +9,9 @@ python hello.py
 ## 2. 실행 결과
 
 ```text
-hello world
+Confilict-a
+hello w
+=======
+hello wo
+ main
 ```
