@@ -12,3 +12,10 @@ Team\_04
 알겠습니다.
 main
 
+ conflict-b
+
+Crashed
+main
+
+
+고생하셨습니다!
